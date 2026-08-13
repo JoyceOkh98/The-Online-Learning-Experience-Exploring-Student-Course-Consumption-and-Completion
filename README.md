@@ -425,13 +425,21 @@ RECOMMENDATIONS
 Conclusion:
 
 The analysis of Online Learning Course Consumption provides useful insight into how learners interact with online education platforms and the factors associated with course completion, dropout, and satisfaction.
+
 The findings show that course type, hours spent per week, platform, experience level, and course duration are associated with different learning outcomes. Non-Tech courses recorded a slightly higher completion share than Tech courses, while higher weekly study hours were associated with both increased completion and increased dropout. This indicates that learner engagement is important, but excessive demands may also create challenges for some learners.
+
 The analysis also shows that dropout reasons vary across learner groups and platforms. Course difficulty and time constraints appeared repeatedly as important reasons associated with dropout. This highlights the need for EdTech providers and course creators to make courses more flexible, accessible, and manageable.
+
 Platform performance also differed. Coursera recorded the highest completion share at 25%, while edX recorded the highest average satisfaction score of 3.2. On the other hand, Udemy recorded the lowest average satisfaction score at 2.8, while YouTube recorded the lowest completion share at 16%. These differences provide opportunities for platforms to study their learner experiences and identify areas for improvement.
+
 Experience level also played an important role in the analysis. Working Professionals recorded the highest completion percentage at 36%, followed by Freshers at 34% and Students at 30%. However, the dropout reasons differed across these groups, suggesting that learners may require different types of support depending on their background and learning circumstances.
+
 Overall, this project provides useful information for the EdTech industry. Platform providers can use these insights to improve course structures, reduce unnecessary difficulty, provide flexible learning options, improve learner support, and increase satisfaction. Course creators can also use the findings to design courses that are easier to manage and complete, while learners can use the insights to better understand the importance of consistent study habits and effective time management.
+
 The ultimate goal should be to create online learning environments where learners are able to start courses, remain engaged, successfully complete them, and have a satisfying learning experience.
+
 Reference:
+
 Kaggle
 
 
