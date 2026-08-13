@@ -1,5 +1,8 @@
 # The-Online-Learning-Experience-Exploring-Student-Course-Consumption-and-Completion
 The Online Learning Course Consumption dataset provides a comprehensive view of the learning behaviour of Freshers, Students, and Working Professionals who consume both Technical and Non-Technical courses across different online learning platforms.
+
+<img width="451" height="421" alt="Dashboard" src="https://github.com/user-attachments/assets/36f5b4da-c899-4e51-91c8-102bea4c26b1" />
+
 Introduction:
 
 In the EdTech industry, understanding how learners interact with online courses is important for improving course completion, learner satisfaction, and platform growth. The Online Learning Course Consumption dataset provides a comprehensive view of the learning behaviour of Freshers, Students, and Working Professionals who consume both Technical and Non-Technical courses across different online learning platforms.
